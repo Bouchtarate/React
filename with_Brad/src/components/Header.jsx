@@ -1,10 +1,8 @@
 const Header = () => {
   return (
-    <header>
-      <center>
-        <h1>Task Tracker</h1>
-      </center>
-    </header>
+    <>
+      <h1>Hello World</h1>
+    </>
   );
 };
 export default Header;
